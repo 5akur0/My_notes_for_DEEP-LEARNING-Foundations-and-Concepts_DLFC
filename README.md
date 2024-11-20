@@ -1,4 +1,4 @@
-# My_notes_for_DEEP-LEARNING-Foundations-and-Concepts_DLFC
+## My_notes_for_DEEP-LEARNING-Foundations-and-Concepts_DLFC
 Welcome to my repository! I'm Sakuro.
 
 This repository contains Sakuro's personal notes for the book *Deep Learning: Foundations and Concepts* by Christopher M.Bishop with Hugh Bishop.
